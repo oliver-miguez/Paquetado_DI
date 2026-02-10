@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+fontes/paquete_exemplo_OliverCastelao/MathOperacion.py
+fontes/paquete_exemplo_OliverCastelao/__init__.py
+paquete_exemplo_OliverCastelao.egg-info/PKG-INFO
+paquete_exemplo_OliverCastelao.egg-info/SOURCES.txt
+paquete_exemplo_OliverCastelao.egg-info/dependency_links.txt
+paquete_exemplo_OliverCastelao.egg-info/top_level.txt

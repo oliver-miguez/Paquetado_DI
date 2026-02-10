@@ -2,8 +2,8 @@
 name = "paquete_exemplo_OliverCastelao"
 version = "0.0.1"
 authors = [
-    {name = "Oliver",email = "omiguezalonso@danielcastelao.org"}
-    {name = "Jorge",email = "jdurancruz@danielcastelao.org"}
+    {name = "Oliver",email = "omiguezalonso@danielcastelao.org"},
+    {name = "Jorge",email = "jdurancruz@danielcastelao.org"},
 ]
 description = "README.md"
 requires-python = ">=3.9"

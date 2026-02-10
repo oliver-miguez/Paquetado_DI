@@ -1,0 +1,7 @@
+Primero escribimo :
+
+    python3 -m pip install --upgrade build
+
+Luego lanzamos build:
+
+    python3 -m build

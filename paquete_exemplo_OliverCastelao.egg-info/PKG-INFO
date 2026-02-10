@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: paquete_exemplo_OliverCastelao
+Version: 0.0.1
+Summary: README.md
+Author-email: Oliver <omiguezalonso@danielcastelao.org>, Jorge <jdurancruz@danielcastelao.org>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/oliver-miguez/Paquetado_DI.git
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+License-File: LICENSE
+Dynamic: license-file
