@@ -1,0 +1,18 @@
+[project]
+name = "paquete_exemplo_OliverCastelao"
+version = "0.0.1"
+authors = [
+    {name = "Oliver",email = "omiguezalonso@danielcastelao.org"}
+    {name = "Jorge",email = "jdurancruz@danielcastelao.org"}
+]
+description = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICENSE"]
+
+[project.urls]
+Homepage = "https://github.com/oliver-miguez/Paquetado_DI.git"
